@@ -2,7 +2,7 @@
 
 This is a website that references all the personalities who have influenced art.
 
-[Live Site]()
+[Live Site](https://galleria-slideshow-react.netlify.app)
 
 ### Setup
 
