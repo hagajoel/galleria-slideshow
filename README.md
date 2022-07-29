@@ -63,5 +63,5 @@ If there is one code fragment I'd like to highlight, that would be slides autopl
 ## Author
 
 - Haga Joël
-- Nohan RZ
+- Samuel Han
 
